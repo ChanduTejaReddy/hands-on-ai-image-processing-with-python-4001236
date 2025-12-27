@@ -20,4 +20,6 @@
   "explorer.compactFolders": false,
   "notebook.lineNumbers": "on",
   "files.autoSave": "off",
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+  "python-envs.pythonProjects": [],
 }
